@@ -8,8 +8,8 @@ Menggunakan:
 - CSS
 
 Fitur:
--Login page
--Change user profile via web interface
+- Login page
+- Change user profile via web interface
 
-admin username: admin
-pass: admin
+- admin username: admin
+- pass: admin
